@@ -25,14 +25,21 @@ Un microcontrôleur est une carte électronique que l'on peut programmer en y t�
   3. État d'un interrupteur
   4. Potentiomètre
   5. Contrôler une DEL
-  6. Écran LCD
-  7. Mini-station météo
+  6. Photorésistances
+  7. Écran LCD (I2C)
   8. Module DHT11 (température et humidité)
-  9. Servomoteurs
+  9. Mini-station météo
   10. Capteurs ultrasons
-  11. Photorésistances
+  11. Servomoteurs
+  12. Modules Bluetooth HC-05
+  13. Modules Bluetooh HM-10
   
- 
+  On peut réaliser les projets 1 à 6 à l'aide du kit de base. Pour les autres projets, ils demandent du matériel supplémentaire qui se retrouve souvent dans les kits de départ commerciaux comprenant une carte de type Arduino.
+  
+  Certains projets (5 et 9, par exemple) ne comprennent pas de code ni de circuit. Le but est d'utiliser les choses apprises dans les autres projets pour réaliser ceux-ci. 
+  
+  Si vous aimeriez des projets incluant des capteurs différents, n'hésitez pas à l'écrire dans les commentaires!
+
  ## Autres projets 
   
  Il est aussi possible d'utiliser l'application App-IA pour réutiliser un modèle d'IA entraîner avec Teachable Machine de Google dans un proejt avec Arduino. Pour plus de détails, consulter https://github.com/EmilieGuay/App-IA.
