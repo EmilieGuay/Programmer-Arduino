@@ -40,6 +40,9 @@ Un microcontrôleur est une carte électronique que l'on peut programmer en y t�
   
   Si vous aimeriez des projets incluant des capteurs différents, n'hésitez pas à l'écrire dans les commentaires!
 
+Pour ce qui est des projets Bluetooth (HC-05 et HM-10), ce sont des bases pour établir la communication pour permettre éventuellement une utilisation dans un projet plus avancé. Il est à noter qu'il n'est pas possible de configurer les modules Bluetooth en commandes AT avec mBlock. Il faut absolument utiliser l'application Arduino IDE pour ce faire (il existe d'autres moyens, mais ils sont plus complexes encore...).
+
+
  ## Autres projets 
   
  Il est aussi possible d'utiliser l'application App-IA pour réutiliser un modèle d'IA entraîner avec Teachable Machine de Google dans un proejt avec Arduino. Pour plus de détails, consulter https://github.com/EmilieGuay/App-IA.
